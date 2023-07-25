@@ -134,7 +134,7 @@ h6 {
   margin: 20px 0;
 }
 a {
-  color: #96632e;
+  color: #ce2323;
 }
 a:hover,
 a:focus {
@@ -143,7 +143,7 @@ a:focus {
 }
 a:visited,
 a:link {
-  color: #96632e;
+  color: #ce2323;
 }
 a img:hover,
 a img:focus {
@@ -164,7 +164,7 @@ a.nav-back {
 }
 a.nav-back:hover,
 a.nav-back:focus {
-  color: #96632e;
+  color: #ce2323;
 }
 nav {
   position: absolute;
@@ -206,7 +206,7 @@ nav {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 2em;
-  color: #96632e;
+  color: #ce2323;
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -278,7 +278,7 @@ nav {
 }
 .post-preview > a:hover > .post-title,
 .post-preview > a:focus > .post-title {
-  color: #96632e;
+  color: #ce2323;
 }
 .post-preview > a > .post-title {
   float: left;
@@ -332,7 +332,7 @@ nav {
 .post-categories a,
 .post-date a {
   text-transform: uppercase;
-  color: #96632e;
+  color: #ce2323;
 }
 .post-tags a:hover,
 .post-categories a:hover,
@@ -401,7 +401,7 @@ footer {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: rgba(226,165,141,0.9);
+  color: rgba(224,71,71,0.9);
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid rgba(235,235,235,0.8);
@@ -420,8 +420,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: rgba(226,165,141,0.9);
-  border: 1px solid rgba(226,165,141,0.9);
+  background-color: rgba(224,71,71,0.9);
+  border: 1px solid rgba(224,71,71,0.9);
   color: #fff;
 }
 .pagiantion {
@@ -448,7 +448,7 @@ form .row:first-child .floating-label-form-group {
 .pagiantion li > a:hover,
 .pagiantion li > a:focus {
   text-decoration: none;
-  color: #96632e;
+  color: #ce2323;
   background-color: transparent;
 }
 .pagiantion .disabled > a,
@@ -461,12 +461,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background: rgba(226,165,141,0.9);
+  background: rgba(224,71,71,0.9);
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background: rgba(226,165,141,0.9);
+  background: rgba(224,71,71,0.9);
 }
 img::selection {
   color: #fff;
@@ -477,5 +477,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: rgba(226,165,141,0.9);
+  webkit-tap-highlight-color: rgba(224,71,71,0.9);
 }

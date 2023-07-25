@@ -1,9 +1,9 @@
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #0c0c0c;
-    --font-color: rgba(255,255,255,0.6);
-    --link-color: rgba(255,255,255,0.8);
-    --line-color: rgba(255,255,255,0.8);
+    --bg-color: #222831;
+    --font-color: #94a1b4;
+    --link-color: #a7dfe4;
+    --line-color: #161d27;
   }
   a .fa-camera-retro,
   a .fa-search,
@@ -83,7 +83,7 @@
     color: var(--link-color);
   }
   .post-preview a {
-    color: var(--font-color);
+    color: var(--font-color) !important;
   }
   .post-preview a:focus .post-title,
   .post-preview a:hover .post-title {

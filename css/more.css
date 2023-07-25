@@ -14,7 +14,7 @@ a.nav-search {
 }
 a.nav-search:hover,
 a.nav-search:focus {
-  color: #96632e;
+  color: #ce2323;
 }
 @media only screen and (max-width: 1024px) {
   a.nav-search {
@@ -47,7 +47,7 @@ a.nav-search:focus {
 .form-control {
   border: none;
   outline: none;
-  caret-color: #96632e;
+  caret-color: #ce2323;
   box-shadow: none;
 }
 .form-control:focus {
@@ -66,7 +66,7 @@ a.nav-search:focus {
 .search-keyword {
   font-style: normal;
   font-weight: 500;
-  color: #96632e;
+  color: #ce2323;
 }
 .search-result {
   margin: 5px 0 20px;
